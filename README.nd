@@ -1,26 +1,24 @@
-# Sistema de Gestion para la Venta de Celulares Autonomo 1
+Sistema de Gestión para la Venta de Celulares Autónomo 1
 
-## Descripción
+Descripción
 
-Para el Autonomo 1 se creo el esquema de como sera el sistema de Gestion
-venta de celulares. Estos gestionaran una tienda de dispositivos moviles que
-en su stock tendran 3 marcas elegibles: Apple, Samsung, Xiaomi 
-este sistema permitira la consulta de los dispositivos y recomendaciones de compra 
-segun el uso que el usuario le quiera destinar al telefono.
+Para el Autónomo 1 se creó el esquema de cómo será el sistema de Gestión
+venta de celulares. Estos gestionaran una tienda de dispositivos móviles que
+en su stock tendrán 3 marcas elegibles: Apple, Samsung, Xiaomi 
+este sistema permitirá la consulta de los dispositivos y recomendaciones de compra 
+según el uso que el usuario le quiera destinar al teléfono.
 
-## Módulos disponibles
+Módulos disponibles
 
 -Catálogo: Permite la consulta de marcas disponibles.
 
--Recomendaciones: Sugerencias de dispositivos segun el uso que se planea dar.
+-Recomendaciones: Sugerencias de dispositivos según el uso que se planea dar.
 
 -Administración: Registra, modifica o elimina los productos en stock.
 
 -Ventas: Proceso final en la compra basada en "carrito" donde se suma el valor total y se confirma la compra.
 
-## Como ejecutar?
-Para la ejecucion del programa se debe usar go run. 
-y para comprobar la compilacion: go build ./...
-
-
+Como ejecutar?
+Para la ejecución del programa se debe usar go run. 
+y para comprobar la compilación: go build ./...
 
